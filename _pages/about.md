@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Pradipto Mondal. I am a Machine Learning Engineer at Adobe working with the ASML (Applied Science & Machine Learning) - India team, based in Bengaluru, India. I graduated from my alma mater **Indian Institute of Technology, Kharagpur** in May, 2025 with a major in *Electronics & Electrical Communication Engineering*.
+Hi! I am Pradipto Mondal. I am a *Machine Learning Engineer* at **Adobe** working with the *ASML (Applied Science & Machine Learning) - India* team, based in Bengaluru, India. I graduated from my alma mater **Indian Institute of Technology, Kharagpur** in May, 2025 with a major in *Electronics & Electrical Communication Engineering*.
 
 My research and academic interests lies in the intersection of deep learning and computer vision. I have had the opportunity to work with some really good researchers in the past. My most recent work experience was at **Adobe Research** under Balaji Vasan Srinivasan working on personalisable diffusion models. I worked in **Vision & AI Lab** (IISc, Bengaluru) Bengaluru under Prof. R Venkatesh Babu for quite a while, resulting in a CVPR'24 publication. Previously I have had the chance to contribute to **Center of Brain Research** (IISc, Bengaluru), and **Autonomous Ground Vehicle Research Group** (IIT, Kharagpur).
 
